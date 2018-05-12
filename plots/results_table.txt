@@ -1,0 +1,4 @@
+Model  AUC score
+      XGBoost (50 trees)       67.7
+TensorFlow (1k ex/layer)       62.2
+TensorFlow (5k ex/layer)       66.2

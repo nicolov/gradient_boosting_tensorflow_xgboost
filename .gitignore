@@ -1,0 +1,5 @@
+*.pyc
+/outputs
+/*.csv
+/*.npz
+/*.pickle

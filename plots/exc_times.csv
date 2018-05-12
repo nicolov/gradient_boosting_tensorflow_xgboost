@@ -1,0 +1,4 @@
+Model,Wall time, Total time
+XGB,2.54,42.06
+TF (1k ex/l),40.46,124.12
+TF (5k ex/l),238.30,659.74
